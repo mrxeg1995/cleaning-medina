@@ -5,8 +5,8 @@ body {
 .card{
     background-color: #e3d1f8;
 }
-.card-body i{
-    font-size:40px;
+.card-body svg{
     color: #9B5DE5;
+    margin: 5px;
 }
 
