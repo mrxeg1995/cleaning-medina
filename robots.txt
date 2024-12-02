@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://www.twhed.cleaning/sitemap.xml
