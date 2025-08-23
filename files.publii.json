@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "cb62a450ae32a4842ffca35934f6d052"
+        "md5": "3420642a2d6936b1d3344fd0f2518721"
     },
     {
         "path": "airconditioner-cleaning",
@@ -12,7 +12,7 @@
     {
         "path": "/airconditioner-cleaning/index.html",
         "type": "file",
-        "md5": "4c396de8836f7d6df1c8b120ce0b32dd"
+        "md5": "6c567d0e0e7c86f2bd55780b27e654c1"
     },
     {
         "path": "assets",
@@ -142,7 +142,7 @@
     {
         "path": "/authors/hmd-smyr/index.html",
         "type": "file",
-        "md5": "c6f692c7c615c4707d079e2867808419"
+        "md5": "215d80312aec0d14e3d5062636cf69e2"
     },
     {
         "path": "clean-pools-medina",
@@ -152,7 +152,7 @@
     {
         "path": "/clean-pools-medina/index.html",
         "type": "file",
-        "md5": "9095ba423586ac0fe58cc1bc45307d46"
+        "md5": "f1d4d4411f478c70e62df30a576527f0"
     },
     {
         "path": "cleaning",
@@ -162,17 +162,17 @@
     {
         "path": "/cleaning/index.html",
         "type": "file",
-        "md5": "77bf12a696225b2d120504a87c7dc87c"
+        "md5": "58cb975bad9100085187f68b566740a7"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "f6d7a33f89568f9cf45f99c86623f9d2"
+        "md5": "9297f9334e47aba27a71a0ada514eb4d"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "65c83260d52053c0a563c41dbfa738ad"
+        "md5": "0d54af26e66fe209c04adc340ea9b28e"
     },
     {
         "path": "house-cleaning",
@@ -182,12 +182,12 @@
     {
         "path": "/house-cleaning/index.html",
         "type": "file",
-        "md5": "b9c978935ec7a36d35b7ce3822b351b9"
+        "md5": "86d39aa38b9114c81c365543badd2c3f"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "410b27acb01e22df92ae16b115b868ae"
+        "md5": "ed732f10066dae08719e651adb152e9b"
     },
     {
         "path": "lryysy",
@@ -197,7 +197,7 @@
     {
         "path": "/lryysy/index.html",
         "type": "file",
-        "md5": "e6057d063bacf1a4baeb86010a7970ed"
+        "md5": "64f511a082b5bdd4e656b0a806a26d2d"
     },
     {
         "path": "magales-cleaning",
@@ -207,27 +207,12 @@
     {
         "path": "/magales-cleaning/index.html",
         "type": "file",
-        "md5": "5f2a842c3c8f1cd847ed75c5ab6f435c"
+        "md5": "f4a74425204e036b156d1d2cc80487a5"
     },
     {
         "path": "media",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "media/plugins",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "media/plugins/pagePrefetching",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/plugins/pagePrefetching/quicklink.umd.js",
-        "type": "file",
-        "md5": "9bf2c039e22db3d0962eb567cbe5954d"
     },
     {
         "path": "media/posts",
@@ -892,7 +877,7 @@
     {
         "path": "/pest-control/index.html",
         "type": "file",
-        "md5": "ea39bd6801094928eaccd9d62126aced"
+        "md5": "ac42e0dcc484abbe90eda6047e314914"
     },
     {
         "path": "robots.txt",
@@ -907,7 +892,7 @@
     {
         "path": "sitemap.xsl",
         "type": "file",
-        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
     },
     {
         "path": "sofa-cleaning",
@@ -917,7 +902,7 @@
     {
         "path": "/sofa-cleaning/index.html",
         "type": "file",
-        "md5": "9e7894f0334ad0dfcf81518e7ba0f67f"
+        "md5": "a1b25a4849436213881af778d5e21900"
     },
     {
         "path": "tags",
@@ -927,7 +912,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "0f195cb7886c4beb74d511295a5ba355"
+        "md5": "b5ffc1c176b612abfa87321f27056086"
     },
     {
         "path": "tags/ldmm",
@@ -937,7 +922,7 @@
     {
         "path": "/tags/ldmm/index.html",
         "type": "file",
-        "md5": "33be17ff8ed41f930ed73082ac61e3f3"
+        "md5": "f4e4c80754967a08ea72eaeb363c8b0b"
     },
     {
         "path": "tags/lmdyn-lmnwr",
@@ -947,7 +932,7 @@
     {
         "path": "/tags/lmdyn-lmnwr/index.html",
         "type": "file",
-        "md5": "7917c6cb323286d23667b84f5265fd86"
+        "md5": "0772d8585756e11e144538caf6753aa8"
     },
     {
         "path": "tags/mkfh-hshrt",
@@ -957,7 +942,7 @@
     {
         "path": "/tags/mkfh-hshrt/index.html",
         "type": "file",
-        "md5": "ca207cc10c3632f3bac938c4fe20a2f9"
+        "md5": "4207f971f8aa7eb8364f9a235606f1c1"
     },
     {
         "path": "tags/taaqym-msbh",
@@ -967,7 +952,7 @@
     {
         "path": "/tags/taaqym-msbh/index.html",
         "type": "file",
-        "md5": "51fbc2b3fed21307f7b7f4b0b716983a"
+        "md5": "1ee5f65b3d7712a8f6f6e960130d7a6d"
     },
     {
         "path": "tags/tnzyf-hwsh",
@@ -977,7 +962,7 @@
     {
         "path": "/tags/tnzyf-hwsh/index.html",
         "type": "file",
-        "md5": "7b14c31d250bab07e7ca8ace8ea048f5"
+        "md5": "903e1a8671e85c788c30ae493072adbd"
     },
     {
         "path": "tags/tnzyf-khznt",
@@ -987,7 +972,7 @@
     {
         "path": "/tags/tnzyf-khznt/index.html",
         "type": "file",
-        "md5": "ef3037ec7ab9d8d2fc1d66289f8a7710"
+        "md5": "10e1f29135326ddbcebafa8e4089433d"
     },
     {
         "path": "tags/tnzyf-knb",
@@ -997,7 +982,7 @@
     {
         "path": "/tags/tnzyf-knb/index.html",
         "type": "file",
-        "md5": "cb1e9b7fdc491a030d6b76d74240255c"
+        "md5": "e248c971f300657bd006c256ae5a9e0d"
     },
     {
         "path": "tags/tnzyf-mdkhn",
@@ -1007,7 +992,7 @@
     {
         "path": "/tags/tnzyf-mdkhn/index.html",
         "type": "file",
-        "md5": "fea93349e68267d1d7c58bfff00aff7f"
+        "md5": "a6d04860ef0ca1c23bf5e7fd54d0154d"
     },
     {
         "path": "tags/tnzyf-mjls",
@@ -1017,7 +1002,7 @@
     {
         "path": "/tags/tnzyf-mjls/index.html",
         "type": "file",
-        "md5": "394eae40cb45f701002717c239ce98dd"
+        "md5": "eba6b155459bbe97e7e3c875638b5aea"
     },
     {
         "path": "tags/tnzyf-mkyft",
@@ -1027,7 +1012,7 @@
     {
         "path": "/tags/tnzyf-mkyft/index.html",
         "type": "file",
-        "md5": "6410e66693028ad79849a15dc5fc7dff"
+        "md5": "5ed680eac768083c13b44ed85b286080"
     },
     {
         "path": "tags/tnzyf-msbh",
@@ -1037,7 +1022,7 @@
     {
         "path": "/tags/tnzyf-msbh/index.html",
         "type": "file",
-        "md5": "bd6ffd73c293c8e28484db80b29d3088"
+        "md5": "dc9b567d2a4d1d53dcc3d042cbcd8bee"
     },
     {
         "path": "tags/tnzyf-shqq",
@@ -1047,7 +1032,7 @@
     {
         "path": "/tags/tnzyf-shqq/index.html",
         "type": "file",
-        "md5": "3a743b8146d35ca949057173b4cea661"
+        "md5": "7fef250094b2e42bd384342b25dadb9a"
     },
     {
         "path": "tank-cleaning",
@@ -1057,7 +1042,7 @@
     {
         "path": "/tank-cleaning/index.html",
         "type": "file",
-        "md5": "6864e400b7bd2ad36bf5e307cce24a27"
+        "md5": "e09fdfad86678bc5d61c0d0697b73849"
     },
     {
         "path": "tnzyf-hwsh-blmdyn",
@@ -1067,7 +1052,7 @@
     {
         "path": "/tnzyf-hwsh-blmdyn/index.html",
         "type": "file",
-        "md5": "821cba751d9b579f9d4d4b3dbbb2ee1c"
+        "md5": "b343d9cdf0c7a50186d97c67a0ec3f97"
     },
     {
         "path": "tnzyf-mdkhn-bldmm",
@@ -1077,6 +1062,6 @@
     {
         "path": "/tnzyf-mdkhn-bldmm/index.html",
         "type": "file",
-        "md5": "d4de9827d4a1e76d061830602aeab41f"
+        "md5": "b7598957069648c0ebb4d6c4b1c96cf2"
     }
 ]
