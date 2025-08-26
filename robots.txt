@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: file:////Volumes/Ahmed/github/publii/rkhs-shrk-tnzyf-blmdyn-lmnwr-0581380280-shrk-tnzyf-b-bkhsm-30/preview/sitemap.xml
+Sitemap: https://www.twhed.cleaning/sitemap.xml
