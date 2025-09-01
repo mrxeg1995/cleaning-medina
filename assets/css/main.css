@@ -1241,7 +1241,7 @@ textarea {
   background: var(--lighter);
   border-radius: var(--border-radius);
   display: block;
-  margin-right: 1.5rem;
+  margin-left: 1.5rem;
   max-width: 4.5rem;
   overflow: hidden;
   position: relative;
